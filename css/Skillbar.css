@@ -1,0 +1,30 @@
+.bread {
+  width: 100%;
+  background-color: #ddd;
+  border-radius: 50px;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  border-radius: 50px;
+}
+
+.html {width: 95%; background-color: #f44336;}
+.php {width: 95%; background-color: #D1327A;}
+.sql {width: 95%; background-color: #FE9233}
+.css {width: 90%; background-color: #faef19;}
+.csharp {width: 70%; background-color: #4CAF50;}
+.js {width: 65%; background-color: #33F1E4;}
+.angularjs {width: 40%; background-color: #2196F3;}
+.asp {width: 35%; background-color: #8D33FE}
+.python {width: 20%; background-color: #808080;}
+
+.smadarin {width: 80%; background-color: #581845;}
+.senglish {width: 60%; background-color: #C70039;}
+.smalay {width: 50%; background-color: #FF5733;}
+.wmadarin {width: 70%; background-color: #C70039;}
+.wenglish {width: 80%; background-color: #581845;}
+.wmalay {width: 50%; background-color: #FF5733;}
